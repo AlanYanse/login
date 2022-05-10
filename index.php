@@ -6,7 +6,7 @@
    <?php include_once "inc/head.php";?>
    <body>
      <div class= "container">
-       <div class= "row">
+       <div class= "row d-flex justify-content-around mt-5">
          <div class="card col-md-6 col-md-offset-6">
          <article class="card-body">
            <h1>Bienvenid@ a mi página</h1>
