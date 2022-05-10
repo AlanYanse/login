@@ -20,9 +20,11 @@
                   <input type="password" class="form-control" placeholder="******" require>
               </div>
               <div class="form-group">
-                  <button class="btn btn-primary btn-block">Registrarse</button>
+                  <button type="submit" class="btn btn-primary btn-block">Registrarse</button>
               </div>
             </form> 
+          <div id="msg_error" class="alert alert-danger" role="alert" style="display: none">
+          </div>
          </article>
          </div>
        </div>
