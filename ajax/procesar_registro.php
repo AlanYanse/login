@@ -1,3 +1,3 @@
 <?php
-echo "procesar registro"
+echo json_encode("procesar registro");
 ?>

@@ -13,11 +13,11 @@
             <form action="POST" class="form_registro">
               <div class="form-group">
                   <label>Email</label>
-                  <input type="email" class="form-control" placeholder="email" require>
+                  <input id="email" type="email" class="form-control" placeholder="email" require>
               </div>
               <div class="form-group">
                   <label>Password</label>
-                  <input type="password" class="form-control" placeholder="******" require>
+                  <input id="password" type="password" class="form-control" placeholder="******" require>
               </div>
               <div class="form-group">
                   <button type="submit" class="btn btn-primary btn-block">Registrarse</button>
